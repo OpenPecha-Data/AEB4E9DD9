@@ -1,0 +1,22 @@
+segment_sources:
+  PCCC15881:
+    type: origin_type
+    relation: translation
+    language: en
+  P5DABF371:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b511ae4c73e84e389006bf0d0173cfb6:
+    PCCC15881: 83b9677780fd44e49a6b4c3a2a9d6aa8
+    P5DABF371: 45d4f19c783944f18a0ec83c98254dc7
+  0a118742396d4a38b6fb585f6f956159:
+    PCCC15881: 6490af88f14747918380cc372106fefc
+    P5DABF371: 7d448990905f42a6b2e96dfb55edefd0
+  d8901ad1d17a44269e348516739df0a0:
+    PCCC15881: 01abfa2155b44c06ad14d4ee20876e5e
+    P5DABF371: aaacfe2c088340349930a84caf12b075
+  0de83af04b6d477084afe78c24ec7dca:
+    PCCC15881: 474491c1db6b4faca77561d57bf3caf3
+    P5DABF371: 1c8e80c849804b71b02b44df209b3872
